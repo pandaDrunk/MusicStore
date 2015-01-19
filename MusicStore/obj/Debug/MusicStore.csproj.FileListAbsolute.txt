@@ -1,0 +1,7 @@
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\ThinkPad\Documents\Visual Studio 2010\Projects\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
